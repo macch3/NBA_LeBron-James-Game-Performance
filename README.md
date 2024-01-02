@@ -1,4 +1,5 @@
 # NBA_LeBron James's Games Performance
+## Analysis Report: LeBron James's Game Performance
 
 ### Points (pts):
 - The points distribution is approximately normally distributed, with a slight right skew.
