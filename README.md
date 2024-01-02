@@ -6,7 +6,7 @@ Welcome to our statistical exploration of LeBron James's performance metrics ove
 
 By examining a range of game statistics, we can better understand the consistency and proficiency of LeBron's performance on the court. The data visualizations provided herein represent an aggregation of LeBron's game-by-game data, enabling us to identify patterns and anomalies in his play.
 
-Dataset from https://www.kaggle.com/code/jonathanbouchet/lebron-james-data/input?select=lebron_career.csv
+Dataset from Kaggle: https://www.kaggle.com/code/jonathanbouchet/lebron-james-data/input?select=lebron_career.csv
 
 ## Methodology
 
