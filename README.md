@@ -25,3 +25,6 @@ The key objectives of our analysis are:
 - To provide a visual and statistical foundation for further analysis by sports analysts and enthusiasts.
 - Please note that this analysis is part of an ongoing project, and we welcome contributions and suggestions for improvement. The dataset and code used for this analysis are available in this repository.
 
+
+Please note that this analysis is an ongoing personal project. I am open to and welcome contributions, suggestions for improvement, and any other input that may enhance the quality of the analysis. The dataset and code used in this analysis are available within this repository for review and use. I look forward to connecting with fellow enthusiasts and collaborators.
+
